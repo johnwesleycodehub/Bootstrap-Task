@@ -1,0 +1,8 @@
+.container{
+    border: 30px solid #2F3D46;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 600;
+    color: white;
+}
